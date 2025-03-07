@@ -1,1 +1,1 @@
-# ARC-GPT-
+# ARC-GPT
